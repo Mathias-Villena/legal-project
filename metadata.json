@@ -1,0 +1,5 @@
+{
+  "name": "LegalContract AI",
+  "description": "A smart residential rental agreement generator with real-time preview, progress tracking, and integrated checkout flow.",
+  "requestFramePermissions": []
+}
